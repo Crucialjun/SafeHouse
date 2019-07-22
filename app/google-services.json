@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "745162385470-mdmjn6v8se66k82r8rloqhmgje43he0r.apps.googleusercontent.com",
+          "client_id": "745162385470-6fg16h457rpgmk120jdq7qpc0mjra0gv.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.crucial.safehouse",
-            "certificate_hash": "260ae42e9281fc1a2dbb37ce4ec7d3477e620491"
+            "certificate_hash": "1e5e11b433a0597b535b57768d6ca997012068ef"
           }
         },
         {

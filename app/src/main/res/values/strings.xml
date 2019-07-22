@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SafeHouse</string>
+    <string name="facebook_application_id">2355614038018792</string>
+    <string name="fb_login_protocol_scheme">fb2355614038018792</string>
 </resources>
